@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/SEWER_WATER001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_clue_se/c312_32_-128"
+		"Proxies"
+		{
+		}
+	}
+}

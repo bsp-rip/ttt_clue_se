@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_clue_se/c160_676_72"
+		"Proxies"
+		{
+		}
+	}
+}

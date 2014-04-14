@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NIPPERTEXTURES/CLUE/MAILBOXWOOD01A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_clue_se/c748_-248_76"
+	}
+}

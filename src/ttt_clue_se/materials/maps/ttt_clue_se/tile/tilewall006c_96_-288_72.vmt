@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEWALL006C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_clue_se/c96_-288_72"
+	}
+}

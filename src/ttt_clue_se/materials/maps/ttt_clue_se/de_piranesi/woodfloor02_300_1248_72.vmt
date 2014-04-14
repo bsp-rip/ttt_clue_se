@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_PIRANESI/WOODFLOOR02.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_clue_se/c300_1248_72"
+	}
+}
